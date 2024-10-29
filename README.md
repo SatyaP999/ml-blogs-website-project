@@ -1,2 +1,2 @@
-# ml-blogs-websitr-project
-A website where wepublish blogs mainly focused on machine learning.
+# ML-Blogs-Website-Project
+A website where we publish blogs mainly focused on machine learning.
